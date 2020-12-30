@@ -78,15 +78,14 @@
   header {
     height: 65px;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.7);
     position :fixed;
     top: 0;
     z-index: 10;
   }
   
   .logo {
-    width: 124px;
-    margin-top: 3px;
+    height:100%;
     opacity:0.7;
   }
   
