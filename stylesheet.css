@@ -23,16 +23,16 @@
   
   .top-wrapper h1 {
     opacity: 0.8;
-    font-size: 50px;
+    font-size: 60px;
     letter-spacing: 5px;
   }
 
   
   .top-wrapper p {
     opacity: 0.6;
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 40px;
-    color:dodgerblue;
+    color:rgb(0, 0, 0);
   }
   
   .btn-wrapper {
@@ -41,7 +41,7 @@
   
   .btn-wrapper p {
     margin-bottom: 20px;
-    color:floralwhite;
+    color:black;
   }
   
   .signup {
@@ -122,7 +122,7 @@
   }
   
   .message-wrapper {
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid gray;
     padding-bottom: 80px;
     text-align: center;
   }
